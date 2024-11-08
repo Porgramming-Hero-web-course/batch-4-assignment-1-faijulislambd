@@ -16,9 +16,9 @@
     for (const key in updateValue) {
       if (key in person) {
         (person as any)[key] = updateValue[key];
+        return person;
       }
     }
-    return person;
   };
 
   console.log(updateProfile(person, { age: 30 }));
