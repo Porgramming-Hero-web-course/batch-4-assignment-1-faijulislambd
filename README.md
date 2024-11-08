@@ -1,1 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16978631&assignment_repo_type=AssignmentRepo)
+**Solved 8 Typescript Problems** ![Static Badge](https://img.shields.io/badge/Typescript--Problems--Solved-8?style=plastic&logo=typeform&labelColor=%233178C6)
+
+**Chosen Blog:** 1. The significance of union and intersection types in Typescript.
